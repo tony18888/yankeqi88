@@ -7,6 +7,7 @@ public class Test {
         System.out.println("今天很好搞");
         System.out.println("真的吗");
         System.out.println("跟新太快");
+        System.out.println("跟新太快");
 	}
 
 }
